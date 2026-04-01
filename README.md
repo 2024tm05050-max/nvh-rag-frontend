@@ -4,4 +4,4 @@ Frontend for NVH RAG
 Fronend can be run by updating the URL in config.js taken from backend run.
 
 Frontend screenshot - 
-![FrontEnd](screenshots/Frontend.png)
+![FrontEnd](Screenshots/Frontend.png)
